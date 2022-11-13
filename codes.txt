@@ -1,22 +1,5 @@
 $$cmd$$
 
-NETWORK IP :ipconfig
-NETWORK WIFI :netsh
-NETWORK WIFI PROFILES :netsh + wlan show profiles
-WIFI PASSWORD:netsh + wlan show profiles accountname key=clear
-PRODUCT KEY:wmic path softwareLicensingService get OA3xOriginalProductKey
+random:qwerty
 
-
-PYTHON EXE CREATOR:pyinstaller --onefile -w //NAMEofFILE.PY
-
-:
-
-TRACE NETWORK HOP:tracert ...link...
-
-PING OR SERVER IP:ping ...link...
-
-:
-
-SERVICES:services.msc
-
-CONNECTION ESTABLISHED IP S:netstat -na
+RTYU:ascv
